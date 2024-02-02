@@ -1,0 +1,42 @@
+{
+	"name": "challenges",
+	"private": false,
+	"license": "BSD-3-Clause",
+	"version": "0.0.1",
+	"description": "A series of challenges that I have completed.",
+	"keywords": [
+		"challenges",
+		"Code Signal"
+	],
+	"homepage": "https://github.com/noltron000/challenges#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/noltron000/challenges.git"
+	},
+	"bugs": {
+		"email": "noltron000@gmail.com",
+		"url": "https://github.com/noltron000/challenges/issues"
+	},
+	"author": {
+		"name": "Nolan Kovacik",
+		"email": "noltron000@gmail.com",
+		"url": "https://nebuloid.dev/"
+	},
+	"contributors": [
+		{
+			"name": "Frances Coronel",
+			"email": "fvcproductions@gmail.com",
+			"url": "https://francescoronel.com/"
+		}
+	],
+	"main": "",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": { },
+	"devDependencies": {
+		"ts-node": "^10.9.2",
+		"typescript": "^5.3.3"
+	}
+}
